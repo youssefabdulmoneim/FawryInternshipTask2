@@ -64,3 +64,6 @@ You must provide a class to test:
 - The system should be designed to be **easily extensible**, so that new types of products can be added **without modifying existing logic**.
 
 ---
+
+
+![UML Diagram](run.png)
